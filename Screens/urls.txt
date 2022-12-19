@@ -10,4 +10,4 @@
 	http://35.87.222.44:3030/api/status
 
 5. Public URL to your Prometheus Server [URL05]
-	http://ec2-35-87-222-44.us-west-2.compute.amazonaws.com:9090/new/targets
+	http://ec2-18-237-215-161.us-west-2.compute.amazonaws.com:9090/targets
