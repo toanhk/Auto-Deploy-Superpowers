@@ -4,7 +4,7 @@
 2. Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02]
 
 3. Public URL for your CloudFront distribution (aka, your blue production front-end) [URL03]
-	http://udapeople-6d94b24.s3-us-west-2.amazonaws.com/index.html#/employees
+	
 
 4. Public URLs to deployed application back-end in EC2 [URL04]
 	http://35.87.222.44:3030/api/status
